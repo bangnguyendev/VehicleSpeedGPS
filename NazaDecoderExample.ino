@@ -23,7 +23,6 @@ uint32_t currTime, attiTime;
 
 void setup()
 {
-
   Serial.begin(115200);
 
   lcd.init();
